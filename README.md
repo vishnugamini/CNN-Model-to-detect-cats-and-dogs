@@ -4,7 +4,7 @@ CNN Model to Detect Animals is a deep learning project that utilizes Convolution
 
 ## Dataset
 
-The dataset used in this project consists of a large collection of 10 thousand labeled images of various animals, including cats and dogs.
+The dataset used in this project consists of a large collection of 10 thousand labeled images of cats and dogs.
 
 ## Model Architecture
 
