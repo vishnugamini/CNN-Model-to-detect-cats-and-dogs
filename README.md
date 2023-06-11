@@ -41,9 +41,9 @@ To run the CNN Model to Detect Animals project, follow these steps:
 
 ## Usage
 
-- Adjust the model architecture, hyperparameters, and training configurations in `train.py`.
-- Modify the evaluation metrics or add additional evaluation methods in `evaluate.py`.
-- Customize the prediction script `predict.py` to fit your specific requirements.
+- Adjust the model architecture, hyperparameters, and training configurations.
+- Modify the evaluation metrics or add additional evaluation methods.
+- Customize the prediction script to fit your specific requirements.
 
 
 
