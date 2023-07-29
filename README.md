@@ -45,6 +45,8 @@ To run the CNN Model to Detect Animals project, follow these steps:
 - Modify the evaluation metrics or add additional evaluation methods.
 - Customize the prediction script to fit your specific requirements.
 
+## More about the Project here
+- [link to the site](https://elderly-cereal-218.notion.site/Deep-learning-Project-d90f5863b6f049129c10beee18b12188)
 
 
 
